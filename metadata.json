@@ -1,0 +1,8 @@
+{
+  "name": "Artis AI Coach",
+  "description": "A personal AI art mentor that tracks your drawing in real-time, providing feedback on anatomy, shapes, and technique using the Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
